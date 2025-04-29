@@ -13,6 +13,8 @@
         <powermock.version>1.6.2</powermock.version>
         <github.account>siom79</github.account>
         <github.project>jdrivesync</github.project>
+		<sonar.organization>ander-arruti</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
 	<licenses>
